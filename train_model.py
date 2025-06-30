@@ -1,5 +1,5 @@
 # Load test data 
-file_path = '/content/drive/My Drive/labeled_data.csv'
+file_path = 'labeled_data.csv'
 train_df = pd.read_csv(file_path)
 
 train_df.head()
